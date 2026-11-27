@@ -1,0 +1,2 @@
+# -Intelligent-Customer-Churn-Prediction-System-
+Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit. Developed a machine learning model to predict customer churn using historical customer data. Performed data preprocessing, exploratory data analysis, and feature engineering to identify customer behavior patterns. Trained and compared Logistic Regression &amp; Random Forest models.
